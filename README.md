@@ -44,7 +44,7 @@ $ dieharder -a -g 202 -f input.bin [-D default -D histogram]
 
 ### Output and visualization
 
-You can read the result in output2.txt on github or read output of the test suite when you run the command above.
+You can read the result in [testout2.txt](https://github.com/GINARTeam/Dieharder-statistical-test/blob/master/testout2.txt) on github or read output of the test suite when you run the command above.
 
 Sample of `result`:
 
